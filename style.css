@@ -1,3 +1,17 @@
- body {
+ .cabecalho {
      background-color: cadetblue;
+ color:rgb(17, 19, 19)
+ Text-align:center
+ max: width 800PX;
  }
+.conteudp-principal{
+
+background-color:green;
+ color:rgb(17, 19, 19)
+ 
+}
+
+
+
+
+
