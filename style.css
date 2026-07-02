@@ -1,17 +1,25 @@
  .cabecalho {
      background-color: cadetblue;
- color:rgb(17, 19, 19)
- Text-align:center
- max: width 800PX;
+     color: rgb(17, 19, 19);
+     text-align:center ;
+     max-width: 800px;
+     margin:0 auto;
  }
-.conteudp-principal{
 
-background-color:green;
- color:rgb(17, 19, 19)
- 
-}
+ .conteudp-principal {
 
+     background-color: green;
+     color: rgb(17, 19, 19);
 
-
+ }
 
 
+
+ .imagem-principal {
+     width: 350px;
+
+
+
+
+
+ }
